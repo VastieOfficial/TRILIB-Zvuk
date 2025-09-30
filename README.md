@@ -11,7 +11,7 @@ This tool is provided for personal, non-commercial use only. In Russia, personal
 | Variable         | Value                                                     
 | ---------------: | --------------------------------------------------------- 
 | TRI_CACHE        | Path to Trilib's cache (any folder, default CWD/TRICACHE) 
-| TRI_ZVUK_PORT | HTTP port (default 3500)                                  
+| TRI_ZVUK_PORT | HTTP port (default 3501)                                  
 1. Run / build: `cargo run`
 2. POST Request JSON payload (escape Unicode) to `/dl`:
 Either URL or Title must be specified.
